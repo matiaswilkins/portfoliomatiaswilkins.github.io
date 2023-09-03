@@ -1,0 +1,44 @@
+*{
+    color: aliceblue;
+    margin: 10px;
+}
+
+body{
+font-family: monospace;
+margin: 10px;
+background-color:#464646
+}
+
+.titulo {
+    font-family: Arial;
+    line-height: 115%;
+    font-size: 130%;
+    text-align: center;
+}
+
+h2{
+    font-size: medium;
+}
+
+#fotoperfil { 
+    width: 15%;
+    border: 5px solid aliceblue;
+}
+
+.intro {
+    font-weight:100;
+    font-size: 130%;
+    text-align: center;
+}
+
+.contenido {
+    text-align:justify;
+    font-size: 130%;
+    background-color: #28282e;
+}
+
+#contacto {
+    text-align:justify;
+    background-color: #28282e;
+    font-size: 130%;
+    }
